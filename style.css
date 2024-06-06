@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: rgb(37, 37, 39);
+    background-color: #3A4D39;
 }
 
 .navbar{
@@ -16,6 +16,7 @@ body{
     justify-content: space-between;
     height: 80px;
     padding: 0 50px;
+    background-color: darkslategrey;
 }
 
 .navbar ul{
@@ -23,7 +24,7 @@ body{
 }
 
 .navbar h2{
-    color: rgb(255, 166, 0);
+    color: #ECE3CE;
 }
 
 .navbar ul li{
@@ -33,6 +34,6 @@ body{
 
 .navbar ul li a{
     text-decoration: none;
-    color: aliceblue;
+    color: #ECE3CE;
     font-size: 16px;
 }
