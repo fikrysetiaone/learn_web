@@ -4,10 +4,11 @@
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+    color: #ECE3CE;
 }
 
 body{
-    background-color: #3A4D39;
+    background-color: #20382c;
 }
 
 .navbar{
@@ -19,12 +20,12 @@ body{
     background-color: darkslategrey;
 }
 
+/* .navbar h2{
+    color: #ECE3CE;
+} */
+
 .navbar ul{
     display: flex;
-}
-
-.navbar h2{
-    color: #ECE3CE;
 }
 
 .navbar ul li{
@@ -34,6 +35,5 @@ body{
 
 .navbar ul li a{
     text-decoration: none;
-    color: #ECE3CE;
     font-size: 16px;
 }
